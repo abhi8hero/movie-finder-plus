@@ -1,0 +1,55 @@
+.home {
+  background-color: #0f172a;
+  min-height: 100vh;
+  padding: 20px 40px;
+}
+
+.genre-section {
+  margin-bottom: 32px;
+}
+
+.genre-title {
+  color: #67e8f9;
+  margin-bottom: 14px;
+  font-size: 1.2rem;
+}
+
+/* Horizontal scroll ONLY for movies */
+.movie-row {
+  display: flex;
+  gap: 16px;
+  overflow-x: auto;
+  overflow-y: hidden;
+  padding-bottom: 10px;
+  scroll-behavior: smooth;
+}
+
+.movie-row::-webkit-scrollbar {
+  height: 8px;
+}
+
+.movie-row::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 10px;
+}
+
+.movie-card {
+  min-width: 180px;
+  background: #1f2833;
+  border-radius: 12px;
+  padding: 10px;
+  flex-shrink: 0;
+  text-align: center;
+  transition: transform 0.2s ease;
+}
+
+.movie-card:hover {
+  transform: scale(1.05);
+}
+
+.movie-card img {
+  width: 100%;
+  height: 260px;
+  object-fit: cover;
+  border-radius: 10px;
+}

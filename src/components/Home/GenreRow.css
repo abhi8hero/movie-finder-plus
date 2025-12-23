@@ -1,0 +1,26 @@
+.genre-row {
+  margin-bottom: 30px;
+}
+
+.genre-title {
+  margin-left: 10px;
+  color: #67e8f9;
+}
+
+/* ✅ ONLY THIS CONTAINER SCROLLS */
+.genre-scroll {
+  display: flex;
+  gap: 15px;
+  overflow-x: auto;
+  padding: 10px;
+  scroll-behavior: smooth;
+}
+
+/* hide ugly scrollbar (optional) */
+.genre-scroll::-webkit-scrollbar {
+  height: 6px;
+}
+.genre-scroll::-webkit-scrollbar-thumb {
+  background: #45a29e;
+  border-radius: 10px;
+}
