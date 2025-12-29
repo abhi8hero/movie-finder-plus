@@ -30,7 +30,7 @@ This project was built to practice API integration, asynchronous JavaScript, and
 ## After cart click:
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/7b8bdda0-bcd4-4fef-ba94-b8e5bb9526f2" />
 
-## Watchlist pagr:
+## Watchlist page:
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/855912c0-0c86-4544-8158-f6ae1078de6f" />
 <img width="1919" height="738" alt="image" src="https://github.com/user-attachments/assets/673b0a6d-d450-4e4a-a6d8-283fd48b9fc4" />
 
