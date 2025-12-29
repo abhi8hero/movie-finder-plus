@@ -24,13 +24,13 @@ This project was built to practice API integration, asynchronous JavaScript, and
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7fbf3735-9105-4f91-bb17-449a2331f94c" />
 <img width="1918" height="564" alt="image" src="https://github.com/user-attachments/assets/8785485e-6efc-400c-9182-92215f9609ce" />
 
-## Search result / output:
+## Search result / output page:
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/7b0ab528-4ff2-4a76-bbbc-8ca1a697a1b2" />
 
 ## After cart click:
 <img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/7b8bdda0-bcd4-4fef-ba94-b8e5bb9526f2" />
 
-## Watchlist:
+## Watchlist pagr:
 <img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/855912c0-0c86-4544-8158-f6ae1078de6f" />
 <img width="1919" height="738" alt="image" src="https://github.com/user-attachments/assets/673b0a6d-d450-4e4a-a6d8-283fd48b9fc4" />
 
