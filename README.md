@@ -13,7 +13,7 @@ This project was built to practice API integration, asynchronous JavaScript, and
 
 ## 🚀 Live Demo
 🔗 Live Demo:  https://abhi8hero.github.io/movie-finder-plus/                                                                        
-🚧 Currently running locally
+🚧 Currently running locally / on github                     
 
 
 ## 📸 Screenshots
