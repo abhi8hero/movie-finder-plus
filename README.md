@@ -18,11 +18,8 @@ This project was built to practice API integration, asynchronous JavaScript, and
 
 ## 📸 Screenshots
 ## Landing page:
-<img width="1919" height="850" alt="image" src="https://github.com/user-attachments/assets/f8039e98-005b-4681-8c6a-2917f4ce45be" />
-<img width="1919" height="913" alt="image" src="https://github.com/user-attachments/assets/218d882f-94c2-4773-8802-065b0d9a220b" />
-<img width="1919" height="912" alt="image" src="https://github.com/user-attachments/assets/b6b776b6-9c03-4855-a574-5b99deb5f92b" />
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/7fbf3735-9105-4f91-bb17-449a2331f94c" />
-<img width="1918" height="564" alt="image" src="https://github.com/user-attachments/assets/8785485e-6efc-400c-9182-92215f9609ce" />
+<img width="1763" height="3852" alt="image" src="https://github.com/user-attachments/assets/143218ab-be20-425c-b725-54adb3c963a8" />
+
 
 ## Search result / output page:
 <img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/7b0ab528-4ff2-4a76-bbbc-8ca1a697a1b2" />
