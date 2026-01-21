@@ -22,7 +22,7 @@ const Home = ({ onSelectMovie }) => {
       />
 
       <GenreRow
-        title="🔥 Drama Movies"
+        title="🎭 Drama Movies"
         movies={[
           "avatar: fire and ash",
           "karwaan",
