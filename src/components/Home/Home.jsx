@@ -94,7 +94,7 @@ const Home = ({ onSelectMovie }) => {
         movies={[
           "The Conjuring",
           "Insidious",
-          "Hereditary",
+          "Untill Dawn",
           "tumbbad",
           "pizza",
           "13B",
